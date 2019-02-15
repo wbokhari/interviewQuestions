@@ -39,6 +39,6 @@ public class Program
         while (j < arr2.Length) 
             sortedArray[k++] = arr2[j++]; 
 		
-		return sortedArray;
+	return sortedArray;
 	}
 }
